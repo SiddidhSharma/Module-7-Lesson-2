@@ -1,0 +1,23 @@
+body{
+    background-color: #5fa5d0;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.carousel-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+}
+.mySlides{
+    display:none;
+    height:500px;
+    width: 600px;
+}
+img{
+    width:200px;
+}
